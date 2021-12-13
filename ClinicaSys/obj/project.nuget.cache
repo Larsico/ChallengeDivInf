@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tcPWuMEneQI4w6C7+7y+ZpG1UcVnjms3jOkpRoHu/1M/OFWwph0IeP7vxfu54g3i3uUlLhgjejXu0xql+kVZlA==",
+  "dgSpecHash": "lo4UAMUqcs8vnLB+lR5Kcuq4SQe61fm6ojeDhIq/wGLfp76NDQk070DTn/wU3Q5ilfeQaKNq5Xz29F9ZKTunaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mauro\\Documents\\Visual Studio 2022\\Proyectos\\ClinicaSys\\ClinicaSys.csproj",
+  "projectFilePath": "C:\\Users\\Mauro\\Documents\\GitHub\\ChallengeDivInf\\ClinicaSys\\ClinicaSys.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mauro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mauro\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

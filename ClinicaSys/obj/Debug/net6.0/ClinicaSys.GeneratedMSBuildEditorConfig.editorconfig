@@ -8,93 +8,93 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClinicaSys
 build_property.RootNamespace = ClinicaSys
-build_property.ProjectDir = C:\Users\Mauro\Documents\Visual Studio 2022\Proyectos\ClinicaSys\
+build_property.ProjectDir = C:\Users\Mauro\Documents\GitHub\ChallengeDivInf\ClinicaSys\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Mauro\Documents\Visual Studio 2022\Proyectos\ClinicaSys
+build_property.MSBuildProjectDirectory = C:\Users\Mauro\Documents\GitHub\ChallengeDivInf\ClinicaSys
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Consultas/Create.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Consultas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Consultas/Delete.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Consultas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Consultas/Details.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Consultas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Consultas/Edit.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Consultas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Consultas/Index.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Consultas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Home/Index.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Medicos/Create.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Medicos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Medicos/Delete.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Medicos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Medicos/Details.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Medicos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Medicos/Edit.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Medicos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Medicos/Index.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Medicos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Pacientes/Create.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Pacientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Pacientes/Delete.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Pacientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Pacientes/Details.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Pacientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Pacientes/Edit.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Pacientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Pacientes/Index.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Pacientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Shared/Error.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/_ViewImports.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/_ViewStart.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mauro/Documents/Visual Studio 2022/Proyectos/ClinicaSys/Views/Shared/_Layout.cshtml]
+[C:/Users/Mauro/Documents/GitHub/ChallengeDivInf/ClinicaSys/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-amubpqvboa
